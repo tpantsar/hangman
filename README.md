@@ -1,2 +1,4 @@
 # hangman
-Hirsipuu-peli, tehty Ohjelmointi 2-kurssin yhteydessä. / Hangman game, made in Programming 2 course.
+
+Arvattavat sanat löytyvät sanatiedosto.txt -tiedostosta, josta ohjelma valitsee satunnaisen sanan käyttäjälle arvattavaksi.
+Voit lisätä halutessasi omia sanoja tiedostoon.
